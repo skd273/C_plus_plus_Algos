@@ -11,7 +11,7 @@ int main(void){
 	for(int i=0; i<5; i++){
 		i = index_min;
 		for(int j=1; j<6; j++){
-			if(array[index_min]<array[j]) index_min=j;
+			if(array[index_min]>array[j]) index_min=j;
 		}
 		temp=index_min;
 		index_min=i;
