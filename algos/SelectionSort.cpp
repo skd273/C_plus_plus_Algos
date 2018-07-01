@@ -2,8 +2,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int main(void){
-	int array[6] = {5, 2, 4, 6, 1, 3};
+void SelectionSort(int array[]){
 	int index_min=0, temp=0;
 	for(int i=0; i<6; i++){
 		cout << "A[" << i <<"] = " << array[i] << endl;
@@ -17,6 +16,11 @@ int main(void){
 		index_min=i;
 		i=temp;
 	}
+}
+
+int main(void){
+	int array[6] = {5, 2, 4, 6, 1, 3};
+	SelectionSort(array);
 	cout << "\n";
 	for(int i=0; i<6; i++){
 		cout << "A[" << i << "] = " << array[i] << endl;
