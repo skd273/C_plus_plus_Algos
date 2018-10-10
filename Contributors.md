@@ -6,3 +6,4 @@
 ### Contributors
 
 - [Rahul-Vijay](https://github.com/Rahul-Vijay)
+- [Taran Vohra](https://github.com/taranvohra)
