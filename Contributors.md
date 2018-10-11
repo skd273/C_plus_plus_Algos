@@ -6,3 +6,4 @@
 ### Contributors
 
 - [Rahul-Vijay](https://github.com/Rahul-Vijay)
+- [Mariana Mendes](https://github.com/marimendes)
