@@ -13,3 +13,5 @@
 
 - [Mariana Mendes](https://github.com/marimendes)
 
+- [David Valleau](https://github.com/daviev)
+
