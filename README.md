@@ -5,6 +5,9 @@
 * [Selection Sort](https://github.com/Rahul-Vijay/C_plus_plus_Algos/blob/master/algos/SelectionSort.cpp)
 * [Quick Sort](https://github.com/Rahul-Vijay/C_plus_plus_Algos/blob/master/algos/QuickSort.cpp)
 * [Heap Sort](https://github.com/Rahul-Vijay/C_plus_plus_Algos/blob/master/algos/HeapSort.cpp)
+* [Breath First Search](https://github.com/Rahul-Vijay/C_plus_plus_Algos/blob/master/algos/bfs.cpp)
+* [Binary Search](https://github.com/Rahul-Vijay/C_plus_plus_Algos/blob/master/algos/binary_search.cpp)
+* [Dijkstra Algorithm](https://github.com/Rahul-Vijay/C_plus_plus_Algos/blob/master/algos/dijkstra.cpp)
 
 
 ## Recursion
