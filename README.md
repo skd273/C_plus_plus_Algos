@@ -8,7 +8,7 @@
 * [Breath First Search](https://github.com/Rahul-Vijay/C_plus_plus_Algos/blob/master/algos/bfs.cpp)
 * [Binary Search](https://github.com/Rahul-Vijay/C_plus_plus_Algos/blob/master/algos/binary_search.cpp)
 * [Dijkstra Algorithm](https://github.com/Rahul-Vijay/C_plus_plus_Algos/blob/master/algos/dijkstra.cpp)
-* [Minimum number of coins][https://github.com/Rahul-Vijay/C_plus_plus_Algos/blob/master/minimum_number_of_coins.cpp]
+* [Minimum number of coins](https://github.com/Rahul-Vijay/C_plus_plus_Algos/blob/master/minimum_number_of_coins.cpp)
 
 ## Recursion
 * [Chess Recursion](https://github.com/Rahul-Vijay/C_plus_plus_Algos/blob/master/algos/Recursion/ChessRecursion.cpp)
