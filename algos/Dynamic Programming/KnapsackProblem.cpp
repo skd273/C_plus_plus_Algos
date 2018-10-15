@@ -1,4 +1,34 @@
 
+/*
+
+ Description:
+ 
+ val[] - value of items
+ wt[] - weight of items
+ W - capacity of knapsack
+ 
+ Taking value (val[]) and weight (wt[]) of items, and placing them in a napsack of a certain
+ capacity (W) to get the maximum total value in the knapsack. Find a maximum value subset that
+ can be placed into the knapsack such that the total weight of these items is not higher than
+ the total weight capacity of the knapsack.
+ 
+ 
+ Example:
+ 
+ int val[] = {60, 100, 120};
+ int wt[] = {10, 20, 30};
+ int W = 50;
+ 
+ The subset that will achieve the maximum weight of 50 (without going over this number) and
+ achieving the highest value would be two items with the weight of 20 and 30, and the value
+ of 100 and 120 respectively. Therefore, the maximum value that can be stored in the knapsack
+ is 220 (100 + 120).
+ 
+ The code to solve such a problem is written below.
+ 
+*/
+
+
 #include <iostream>
 using namespace std;
 
