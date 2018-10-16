@@ -18,3 +18,6 @@
 * [Merge Sort](https://github.com/Rahul-Vijay/C_plus_plus_Algos/blob/master/algos/Divide_and_Conquer/MergeSort.cpp)
 
 
+## Dynamic Programming
+* [Coin Change Problem](https://github.com/Rahul-Vijay/C_plus_plus_Algos/blob/master/algos/Dynamic%20Programming/coinChange.cpp)
+* [0-1 Knapsack Problem](https://github.com/Rahul-Vijay/C_plus_plus_Algos/blob/master/algos/Dynamic%20Programming/KnapsackProblem.cpp)
