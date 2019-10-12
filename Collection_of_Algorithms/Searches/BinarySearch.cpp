@@ -7,7 +7,7 @@ int binarySearch(int arr[], int l, int r, int ele)
 { 
    if (r >= l) 
    { 
-        int mid = l + (r - l)/2; 
+        int mid = (r + l)/2; 
   
         // If the element is found return mid  
         
